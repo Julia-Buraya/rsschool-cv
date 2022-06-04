@@ -37,3 +37,15 @@ I have an engineering degree. I worked in my specialty for 3 years. I decided to
     Ghjhfktcghgvhvlhjlvhhgffty
 </div> -->
 ```
+
+## Experience
+
+No experience.
+
+## Education
+
+University: Belarusian National Technical University.
+
+## English
+
+A1.
