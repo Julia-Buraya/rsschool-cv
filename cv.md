@@ -7,3 +7,13 @@
 * Phone: +995-599-10-84-57
 * Email: yuliya.buraya94@gmail.com
 * GidHub: Julia-Buraya
+
+## About Me
+
+I have an engineering degree. I worked in my specialty for 3 years. I decided to develop in a new direction. My hobbies: music, singing, cosplay. My personal qualities: I can easily find contact with people, attention to detail, striving for professional development, ability to work in a team.
+
+## Social network
+
+[![Instagram](assets/images/logo/instagram.png)](https://www.instagram.com/yu.magitao/)
+
+## Skills
