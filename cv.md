@@ -17,3 +17,23 @@ I have an engineering degree. I worked in my specialty for 3 years. I decided to
 [![Instagram](assets/images/logo/instagram.png)](https://www.instagram.com/yu.magitao/)
 
 ## Skills
+
+### Code Example
+
+```
+<style>
+    .card-hello{
+        background-color: #FA7268;
+        color: #FFFFFF;
+        width: 230px;
+        height: 25px;
+        padding: 20px;
+        margin: 10px;
+        border: 2px solid #9C27B0;
+        font-size: 20px;
+    }
+</style>
+<div class="card-hello">
+    Ghjhfktcghgvhvlhjlvhhgffty
+</div> -->
+```
