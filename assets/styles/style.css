@@ -255,3 +255,70 @@ header {
   letter-spacing: -0.2px;
   color: #16171D;
 }
+
+/*=======EXPERIENCE======*/
+.experience {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.experience__list {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: flex-start;
+}
+
+.experience__item {
+  margin-bottom: 45px;
+}
+
+.job__element {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.job__place {
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 24px;
+  align-items: center;
+  letter-spacing: -0.2px;
+}
+
+.doter {
+  margin: 0 8px 0 8px;
+  background: #16171D;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+}
+
+.job__employment {
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 24px;
+  align-items: center;
+  letter-spacing: -0.2px;
+  color: #16171D;
+}
+
+.job__time {
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: -0.2px;
+  color: #73828E;
+}
+
+.job__description {
+  margin-top: 16px;
+  max-width: 600px;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: -0.2px;
+  color: #16171D;
+}
