@@ -443,3 +443,38 @@ header {
   margin-bottom: 45px;
 }
 
+/*=======FOOTER======*/
+footer {
+  border-top: #73828E 2px solid;
+  padding-top: 15px;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.footer__date {
+  padding-bottom: 6px;
+  padding-left: 10px;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: -0.2px;
+  color: #16171D;
+}
+
+.footer__logo {
+  width: 100px;
+}
+
+.footer div {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+
