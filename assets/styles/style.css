@@ -433,3 +433,13 @@ header {
   color: #16171D;
 }
 
+/*=======CODE======*/
+.code {
+  margin-top: 40px;
+}
+
+.code__element {
+  font-size: 15px;
+  margin-bottom: 45px;
+}
+
