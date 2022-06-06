@@ -322,3 +322,70 @@ header {
   letter-spacing: -0.2px;
   color: #16171D;
 }
+
+/*=======PROJECTS======*/
+.projects {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 50px;
+  /*padding-bottom: 45px;*/
+}
+
+.projects__element {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.project__icon {
+  width: 168px;
+}
+
+.project__description {
+  display: flex;
+  flex-direction: column;
+  max-width: 688px;
+  width: 100%;
+}
+
+.project__title {
+  margin-bottom: 24px;
+}
+
+.project__link {
+  margin-bottom: 40px;
+}
+
+.project__specific {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  width: 100%;
+  border-bottom: #f4f4f5 1px solid;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 24px;
+  align-items: center;
+  letter-spacing: -0.2px;
+  color: #73828E;
+}
+
+.project__specific:first-child {
+  border-top: #f4f4f5 1px solid;
+}
+
+.project__specific span:first-child {
+  min-width: 208px;
+}
+
+.project__specific span:nth-child(2) {
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 24px;
+  align-items: center;
+  letter-spacing: -0.2px;
+  color: #16171D;
+}
