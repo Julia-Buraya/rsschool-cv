@@ -171,3 +171,87 @@ header {
   letter-spacing: -0.2px;
   color: #16171D;
 }
+
+/*=======PERSONAL INFO======*/
+.personal {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 80px;
+}
+
+.personal-info {
+  max-width: 272px;
+  width: 100%;
+}
+
+.contacts {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.contacts__item {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 9px;
+  padding-top: 12px;
+  border-bottom: #f4f4f5 1px solid;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 24px;
+  align-items: center;
+  letter-spacing: -0.2px;
+  color: #16171D;
+}
+
+.contacts__item:first-child {
+  border-top: #f4f4f5 1px solid;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 9px;
+}
+
+.my-skills {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 688px;
+  width: 100%;
+}
+
+.skills__item {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  width: 100%;
+  border-bottom: #f4f4f5 1px solid;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 24px;
+  align-items: center;
+  letter-spacing: -0.2px;
+  color: #73828E;
+}
+
+.skills__item:first-child {
+  border-top: #f4f4f5 1px solid;
+}
+
+.skills__item span:first-child {
+  min-width: 208px;
+}
+
+.skills__item span:nth-child(2) {
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 24px;
+  align-items: center;
+  letter-spacing: -0.2px;
+  color: #16171D;
+}
