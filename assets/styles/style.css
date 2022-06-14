@@ -337,6 +337,9 @@ header {
   flex-direction: row;
   justify-content: space-between;
 }
+.projects__element:not(:last-child){
+  margin-bottom: 45px;
+}
 
 .project__icon {
   width: 168px;
